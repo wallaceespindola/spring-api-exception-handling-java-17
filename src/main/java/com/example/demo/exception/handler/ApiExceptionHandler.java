@@ -23,5 +23,4 @@ public class ApiExceptionHandler {
         ExampleApiError error = new ExampleApiError(e.getMessage(), e.getCode(), LocalDateTime.now());
         return new ResponseEntity<>(error, badRequest);
     }
-
 }

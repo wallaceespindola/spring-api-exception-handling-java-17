@@ -51,5 +51,4 @@ public class ExampleController {
     public Object getPayments(@PathVariable("id") String id) {
         return exampleService.getPayment(StringUtils.isNotBlank(id) ? id : "-1");
     }
-
 }

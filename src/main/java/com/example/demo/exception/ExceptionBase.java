@@ -2,8 +2,7 @@ package com.example.demo.exception;
 
 public interface ExceptionBase {
 
-  String getMsg();
+    String getMsg();
 
-  Integer getCode();
-
+    Integer getCode();
 }
