@@ -2,6 +2,10 @@
 
 # Spring API Exception Handling Demo with Java 17 and Actuator
 
+![Apache 2.0 License](https://img.shields.io/badge/License-Apache2.0-orange.svg)]
+![Java](https://img.shields.io/badge/Built_with-Java-blue)
+![Spring](https://img.shields.io/badge/Powered_by-Spring-green)
+
 Testing API Exception Handling With Spring Boot
 
 Using Java 17 in this API test project.
